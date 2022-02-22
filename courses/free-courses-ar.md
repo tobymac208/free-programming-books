@@ -4,7 +4,7 @@
 * [Assembly](#assembly)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Computer Architecture](#computer-architecture)
 * [Dart](#dart)
@@ -66,7 +66,7 @@
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C#](https://www.youtube.com/playlist?list=PLltZRmsFXWnIfLM0BKgJNZYVnvCDZNAh_) - 6wrni
 * [C# Programming Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQLsXXXxx_mX3WvUEgGM0iA) - محمد شوشان
@@ -74,7 +74,7 @@
 * [Unit Testing in C# [Arabic]](https://www.youtube.com/playlist?list=PLwj1YcMhLRN28xijrXMO255JHsO3csus-) - خالد السعداني
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [Arabic C++ For kids & beginners (برمجة لصغار السن والمبتدئيين)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3) - Arabic Competitive Programming
 * [C++ Intensive - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) - Arabic Competitive Programming
@@ -120,7 +120,7 @@
 * [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
 * [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
-* [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+* [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
 
 
 ### Flutter
@@ -167,7 +167,7 @@
 * [JAVA Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) - محمد شوشان
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
-* [JAVA Programming Full Project by Arabic (uni_staff project) |(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
 * [Learn JAVA Programming From Scratch In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
 * [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى

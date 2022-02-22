@@ -4,7 +4,7 @@
 * [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
-* [C#](#c)
+* [C#](#csharp)
 * [Construct](#construct)
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
@@ -49,6 +49,7 @@
 * [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
+* [Tutorial Android Dasar (Bahasa Indonesia)](https://www.youtube.com/watch?v=pUTz5IOkBtE) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
 
@@ -72,7 +73,7 @@
 * [Memulai Pemrograman dengan C](https://www.dicoding.com/academies/120) - Dicoding, membutuhkan registrasi
 
 
-### C#
+### <a name="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 
@@ -257,7 +258,7 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
-* [Classic Time Series Forecasting | Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (Youtube)
+* [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (Youtube)
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (Youtube)
 
 
